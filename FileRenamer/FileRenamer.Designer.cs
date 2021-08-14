@@ -186,35 +186,35 @@
             this.toolStripMenuItem2});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(984, 26);
+            this.menuStrip1.Size = new System.Drawing.Size(984, 24);
             this.menuStrip1.TabIndex = 14;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // openPathMenu
             // 
             this.openPathMenu.Name = "openPathMenu";
-            this.openPathMenu.Size = new System.Drawing.Size(104, 22);
+            this.openPathMenu.Size = new System.Drawing.Size(82, 20);
             this.openPathMenu.Text = "フォルダを開く";
             this.openPathMenu.Click += new System.EventHandler(this.openPathMenu_Click);
             // 
             // renameMenu
             // 
             this.renameMenu.Name = "renameMenu";
-            this.renameMenu.Size = new System.Drawing.Size(104, 22);
+            this.renameMenu.Size = new System.Drawing.Size(85, 20);
             this.renameMenu.Text = "ファイルに反映";
             this.renameMenu.Click += new System.EventHandler(this.renameMenu_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(138, 22);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(123, 20);
             this.toolStripMenuItem1.Text = "よく使う表現(未実装)";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(44, 22);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(43, 20);
             this.toolStripMenuItem2.Text = "設定";
             this.toolStripMenuItem2.Click += new System.EventHandler(this.toolStripMenuItem2_Click);
             // 
